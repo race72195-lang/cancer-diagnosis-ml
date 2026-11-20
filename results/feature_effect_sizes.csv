@@ -1,0 +1,31 @@
+,cohens_d
+worst concave points,2.69
+worst perimeter,2.6
+mean concave points,2.55
+worst radius,2.54
+mean perimeter,2.29
+worst area,2.23
+mean radius,2.21
+mean area,2.08
+mean concavity,2.0
+worst concavity,1.81
+mean compactness,1.53
+worst compactness,1.51
+radius error,1.42
+perimeter error,1.38
+area error,1.35
+worst texture,1.06
+worst smoothness,0.96
+worst symmetry,0.95
+mean texture,0.94
+concave points error,0.92
+mean smoothness,0.79
+mean symmetry,0.72
+worst fractal dimension,0.71
+compactness error,0.63
+concavity error,0.54
+fractal dimension error,0.16
+smoothness error,-0.14
+mean fractal dimension,-0.03
+texture error,-0.02
+symmetry error,-0.01

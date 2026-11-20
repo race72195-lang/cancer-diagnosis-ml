@@ -1,0 +1,31 @@
+,auc_drop
+worst symmetry,0.0102
+worst texture,0.0101
+worst concavity,0.0077
+worst concave points,0.003
+mean concave points,0.003
+mean concavity,0.0028
+worst radius,0.002
+worst area,0.0015
+texture error,0.0014
+worst perimeter,0.0014
+radius error,0.0011
+worst smoothness,0.0009
+concave points error,0.0003
+mean smoothness,0.0003
+area error,0.0002
+perimeter error,0.0002
+compactness error,0.0001
+mean perimeter,0.0
+worst fractal dimension,0.0
+mean area,-0.0
+symmetry error,-0.0
+mean radius,-0.0
+concavity error,-0.0001
+smoothness error,-0.0003
+fractal dimension error,-0.0003
+mean symmetry,-0.0003
+mean fractal dimension,-0.0004
+mean texture,-0.001
+worst compactness,-0.001
+mean compactness,-0.0013
